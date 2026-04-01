@@ -1,0 +1,7 @@
+syntax on
+set number
+set ruler
+set cursorline
+colorscheme desert
+set laststatus=2
+This is a git push test.
